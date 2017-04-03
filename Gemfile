@@ -48,7 +48,8 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
-  gem 'sprockets-rails', :require => 'sprockets/railtie'
+  gem 'sprockets', '~> 3.0'
+
 
 
 end
