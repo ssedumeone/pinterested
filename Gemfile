@@ -50,7 +50,7 @@ group :development do
   gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
   gem 'sprockets', '~> 3.0'
   gem 'devise', '~> 4.2', '>= 4.2.1'
-   ruby '2.4.0'
+  ruby '2.4.0'
 
 
 
