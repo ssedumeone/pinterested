@@ -49,6 +49,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
   gem 'sprockets', '~> 3.0'
+  gem 'devise', '~> 4.2', '>= 4.2.1'
 
 
 
