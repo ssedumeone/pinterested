@@ -24,8 +24,8 @@
             <li><%= link_to 'Logout', destroy_user_session_path, method: :delete %></li>
             <li><%= link_to 'Add Pin', new_pin_path %></li>
             <% else %>
-            <span class="glyphicon glyphicon-log-in", aria-hidden="true"> <li><%= link_to "Login", new_user_session_path %></li></span>
-            <span <li><%= link_to "Join", new_user_registration_path %></li></span>
+            <li><%= link_to "Login", new_user_session_path %></li>
+            <li><%= link_to "Join", new_user_registration_path %></li>
 
             <%end%>
       </ul>
