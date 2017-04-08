@@ -11,8 +11,8 @@
  * It is generally better to create a new file per style scope.
  */
  // "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
-$jumbotron-bg: #e53935 ;
-$navbar-default-bg: #ffebee;
+$jumbotron-bg: #00c853;
+$navbar-default-bg: #ffff00;
 $body-bg: #fff;
 @import "bootstrap-sprockets";
 @import "bootstrap";
