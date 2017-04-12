@@ -17,5 +17,9 @@ $body-bg: #fff;
 @import "bootstrap";
 .navbar .navbar-nav > li > a {
 background-color:#358e08;
-color: #f9d909;
+color: #fff !important;
+}
+.navbar .nav > li > a:hover {
+color: #002E36;
+background-color: #f9d909;
 }
