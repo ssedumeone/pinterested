@@ -16,11 +16,10 @@ $body-bg: #fffde5;
 @import "bootstrap-sprockets";
 @import "bootstrap";
 .navbar .navbar-nav > li > a {
-background-color:#ffe600;
-font-weight: 200;
-color: #000 !important;
+background-color:#0D83D5;
+font-weight: bolder;
+color: #FFD700 !important;
 }
 .navbar .nav > li > a:hover {
-color: #0000;
-background-color: #3aa825;
+background-color: #fff;
 }
